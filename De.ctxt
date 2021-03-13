@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=De
+comment0.text=\r\n\ Cette\ classe\ nous\ sert\ un\ cr\u00E9e\ un\ d\u00E9\ avec\ \ un\ nombre\ de\ faces\ que\ l'on\ peut\ choisir\r\n\r\n\ @author\ VASSEUR\ Lilian\ &\ PREVOT\ Samuel\r\n\ @version\ 10/12/2020\r\n
+comment1.params=nbf
+comment1.target=De(int)
+comment1.text=\r\n\ permet\ de\ construire\ le\ d\u00E9\ d'un\ nombre\ de\ faces\ choisi\r\n
+comment2.params=
+comment2.target=void\ lancerDe()
+comment2.text=\r\n\ Grace\ a\ cette\ m\u00E9thode\ on\ simule\ un\ nombre\ compris\ entre\ 1\ et\ le\ nombre\ de\ faces\r\n
+comment3.params=
+comment3.target=int\ getValeur()
+comment3.text=\r\n\ Retourne\ la\ valeur\ du\ d\u00E9\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ permet\ de\ savoir\ le\ nombre\ de\ faces\ et\ la\ valeur\ de\ la\ face\ du\ dessus\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Joueur
+comment0.text=\r\n\ La\ classe\ Joueur\ permet\ de\ cr\u00E9er\ des\ joueur\ pour\ notre\ jeu.\ Elle\ permet\ de\ leur\ donner\ un\ nom\ et\ un\ score.\r\n\ Les\ m\u00E9thodes\ permettent\ \ d'ajouter\ des\ points\ au\ score\ du\ joueur,\ de\ connaitre\ son\ nom\ et\ son\ score.\r\n\ On\ peut\ aussi\ remettre\ le\ nom\ du\ joueur\ \u00E0\ z\u00E9ro.\r\n\ \r\n\r\n\ @author\ VASSEUR\ Lilian\ &\ PREVOT\ Samuel\r\n\ @version\ 10/12/2020\r\n
+comment1.params=n
+comment1.target=Joueur(java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ joueur\r\n\ \r\n\ @param\ n\ --->\ le\ nom\ du\ nouveau\ joueur\r\n
+comment2.params=point
+comment2.target=void\ ajoutPoints(int)
+comment2.text=\r\n\ la\ m\u00E9thode\ ajoutPoints\ doit\ permettre\ d'ajouter\ les\ points\ que\ le\ joueur\ vient\ de\r\n\ faire\ afin\ d'avoir\ le\ score\ final\r\n\ \r\n\ @param\ point\ --->\ le\ score\ du\ lanc\u00E9\ de\ d\u00E9\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNom()
+comment3.text=\r\n\ "getNom"\ sert\ a\ connaitre\ le\ nom\ du\ joueur\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ "getScore"\ sert\ a\ connaitre\ le\ score\ du\ joueur\r\n
+comment5.params=
+comment5.target=void\ reset()
+comment5.text=\r\n\ "reset"\ sert\ a\ remettre\ le\ score\ du\ joueur\ \u00E0\ 0\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\nOn\ peut\ connaitre\ le\ nom\ et\ le\ score\ d'un\ joueur\ grace\ a\ cette\ m\u00E9thode\r\n
+numComments=7

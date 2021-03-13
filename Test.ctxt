@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\nLa\ calsse\ Test\ permet\ de\ simuler\ plus\ rapidement\ une\ partie\ de\ 10\ coups\ avec\ un\ d\u00E9\ de\ 6\ faces.\r\n\r\n\ @author\ VASSEUR\ Lilian\ &\ PREVOT\ Samuel\r\n\ @version\ 10/12/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Cette\ m\u00E9thode\ simule\ toute\ la\ partie\r\n
+numComments=2

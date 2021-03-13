@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Jeu
+comment0.text=\r\n\ Cette\ classe\ sert\ \u00E0\ lancer\ notre\ jeu\ gr\u00E2ce\ \u00E0\ la\ m\u00E9thode\ partie.\ On\ pourra\ d\u00E9finir\ le\ nombre\ de\ coups\r\n\ que\ les\ joueurs\ vont\ faire.\r\n\r\n\ @author\ VASSEUR\ Lilian\ &\ PREVOT\ Samuel\r\n\ @version\ 10/12/2020\r\n
+comment1.params=J1\ J2\ nbc\ de1
+comment1.target=Jeu(Joueur,\ Joueur,\ int,\ De)
+comment1.text=\r\n\ Le\ constructeur\ sert\ a\ construire\ le\ jeu\ \u00E0\ partir\ des\ 2\ joueurs\ qu'on\ definit.\r\n\ On\ lui\ indique\ aussi\ le\ nombre\ de\ coups.\r\n\ \r\n\ @param1\ -->\ le\ premier\ joueur\r\n\ @param2\ -->\ le\ deuxieme\ joueur\r\n\ @param3\ -->\ le\ nombre\ de\ coups\r\n
+comment2.params=
+comment2.target=void\ partie()
+comment2.text=\r\n\ cette\ m\u00E9thode\ permet\ de\ generer\ une\ valeur\ de\ d\u00E9\ pour\ le\ nombre\ de\ coups\ qui\ est\ d\u00E9finit\r\n
+comment3.params=
+comment3.target=java.lang.String\ getgagnant()
+comment3.text=\r\n\ la\ m\u00E9thode\ sert\ a\ savoir\ le\ nom\ du\ gagnant\r\n
+comment4.params=
+comment4.target=java.lang.String\ tostring()
+comment4.text=\r\n\ On\ renvoie\ ici\ le\ nom\ des\ joueurs\ avec\ leurs\ score\r\n
+numComments=5
